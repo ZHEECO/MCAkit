@@ -31,6 +31,8 @@ AR_forecast_new.m---perform autoregressive regression
 
 AR_DI_forecast_new.m---perform factor-augumented autoregressive regression
 
+dmtest.m---conduct Diebold–Mariano (DM) test
+
 ## Other Files
 
 EM.m---perform EM iteration in modal regression
